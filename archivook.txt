@@ -1,2 +1,2 @@
 Probando con Git - Ciudad Escolar
-archivo1.txt
+archivo1.txt 
